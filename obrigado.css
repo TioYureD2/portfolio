@@ -1,0 +1,26 @@
+.tnk-topo{
+    background-color: rgb(252, 252, 252);
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10rem auto;
+    padding: 100px 8%;
+    width:fit-content;
+    max-width: 82%;
+    border: 1px solid rgb(0,0,0);
+    border-radius: 3rem;
+}
+.tnk-topo p{
+    line-height: 1.5rem;
+    padding: 3rem 1rem;
+
+}
+
+@media screen and (max-width: 600px){
+    h1{
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+}

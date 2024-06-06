@@ -1,0 +1,6 @@
+PHPMailer/
+vendor/
+config.php
+composer.json
+composer.lock
+client_secret_171656996078-3rugunqkonm9nvnofujh496f1pttmvci.apps.googleusercontent.com.json
