@@ -1,5 +1,5 @@
-PHPMailer/
-vendor/
+/PHPMailer/
+/vendor/
 config.php
 composer.json
 composer.lock
